@@ -1,0 +1,54 @@
+Gender,Occupation,Parttime_job,food_type,Junk_food,Consumption_of_junk_food,Exercise,How_often_you_exercise,Type_of_Physicalactivity,Meditaton,Clamness_Excercise,"Effective_excercise
+",Diet_plan,Reason_for_dietplan,Change_after_dietplan,Dietplan_duration,Stress,Clamness_level,ExtraCurricular_activities,Extracurricular_studies,stress_management,Do_you_like_to_excercise,Happylife_Excercise
+Female,Student,Yes,Vegetarian food includes Eggs,No,Sometimes,Yes,Sometimes,Yoga,Yes,Yes,Yoga,No,To Stay healthy,Maybe,,No,3,No,Maybe,Go out for a walk,Yes,Yes
+Male,Student,No,Non Vegetarian food,,Sometimes,Maybe,Never,Cardio,No,Maybe,Yoga,Yes,Weight loss,Yes,1-3 months,No,3,No,No,Go for a trip,No,Maybe
+Female,Student,No,Vegetarian food,Maybe,Sometimes,Maybe,Sometimes,Other,No,Yes,Option 4,Maybe,To Stay healthy,Yes,1-3 months,Maybe,3,Yes,Maybe,Go out for a walk,Yes,Yes
+Female,Student,No,Vegetarian food,Yes,Sometimes,Maybe,Sometimes,Cardio,No,Yes,Cardio,No,,No,,Yes,3,No,Maybe,Go out for a walk,Yes,Yes
+Female,Student,No,Non Vegetarian food,Maybe,Sometimes,Yes,Very Often,Cardio,No,Yes,Cardio,No,,No,,Maybe,4,No,No,Go out for a walk,Yes,Yes
+Female,Student,No,Non Vegetarian food,Yes,Very Often,No,Never,Zumba,No,Maybe,Zumba,No,Weight loss,No,,Yes,3,No,No,Watch a movie,Yes,Maybe
+Male,Student,No,Non Vegetarian food,Yes,Sometimes,Yes,Very Often,Running,No,Maybe,Yoga,No,,No,,Yes,3,No,No,Go for a trip,,Yes
+Female,Student,No,Non Vegetarian food,Yes,Very Often,No,Sometimes,Running,Maybe,Maybe,Cardio,No,Weight gain,Maybe,,Yes,3,Yes,No,Watch a movie,,Maybe
+Female,Student,No,Non Vegetarian food,No,Sometimes,Yes,Never,Running,Maybe,No,Cardio,No,To Stay healthy,Yes,1-3 months,No,4,No,No,Go out for a walk,Yes,Yes
+Female,Student,No,Vegetarian food includes Eggs,Yes,Very Often,Maybe,Sometimes,Yoga,No,Yes,Yoga,No,To Stay healthy,Yes,3-6 months,No,3,No,No,Singing,Yes,Yes
+Male,Student,No,Vegetarian food,Yes,Very Often,No,Never,Running,No,No,None,No,Weight loss,No,1-3 months,No,1,No,No,Watch a movie,No,No
+Female,Student,No,Vegetarian and Non vegetarian,Maybe,Sometimes,Yes,Sometimes,Cardio,Maybe,Yes,Cardio,No,Weight loss,Yes,1-3 months,Maybe,3,Yes,No,Watch a movie,Yes,Yes
+Female,Student,No,Vegetarian and Non vegetarian,No,Sometimes,Yes,Very Often,Other,No,Yes,Cardio,No,,Maybe,,Yes,3,Yes,Yes,Go out for a walk,,Yes
+Male,Student,No,Vegetarian food,Maybe,Sometimes,Yes,Sometimes,Gym,No,Yes,Yoga,No,I dont follow a diet plan.,No,,Maybe,4,Yes,No,Go out for a walk,Yes,Yes
+Female,Student,No,Vegetarian food,Yes,Sometimes,Yes,Sometimes,Other,No,Yes,None,Yes,Weight loss,Yes,1-3 months,Yes,2,No,Maybe,Exercise,Yes,Yes
+Male,Student,No,Vegetarian and Non vegetarian,Maybe,Sometimes,,Very Often,Other,Yes,Yes,Yoga,No,To Stay healthy,Yes,1-3 months,Yes,3,No,Yes,Singing,Yes,Yes
+Male,Student,No,Vegetarian food includes Eggs,No,Sometimes,Yes,Very Often,Other,Yes,Yes,Yoga,Maybe,To Stay healthy,Yes,more than a year,Maybe,4,No,Yes,Go out for a walk,Yes,Yes
+Male,Student,No,Vegetarian and Non vegetarian,Yes,Sometimes,Maybe,Sometimes,Other,No,Maybe,Cardio,No,To Stay healthy,Maybe,1-3 months,Yes,3,Yes,No,Watch a movie,Yes,Maybe
+Female,Student,No,Vegetarian food includes Eggs,Yes,Sometimes,Yes,Sometimes,Yoga,Maybe,Yes,Yoga,No,To Stay healthy,Yes,3-6 months,Yes,2,No,No,Watch a movie,Yes,Yes
+Female,Student,No,Vegetarian and Non vegetarian,Yes,Sometimes,Yes,Sometimes,Gym,Maybe,Yes,Yoga,No,To Stay healthy,Maybe,,Yes,3,Yes,No,Go out for a walk,Yes,Yes
+Male,Student,Yes,Vegetarian and Non vegetarian,Yes,Sometimes,Yes,Very Often,Gym,No,Yes,Cardio,Maybe,To Stay healthy,Yes,more than a year,Maybe,4,No,Maybe,Exercise,Yes,Yes
+Male,Student,No,Non Vegetarian food,Yes,Very Often,No,Sometimes,Other,No,No,Cardio,No,To Stay healthy,Yes,1-3 months,Yes,3,No,No,Exercise,No,No
+Female,Student,No,Non Vegetarian food,Yes,Sometimes,No,Never,Yoga,No,Yes,Yoga,No,Weight gain,Yes,1-3 months,Yes,1,Maybe,Maybe,Go out for a walk,No,Maybe
+Female,Student,No,Vegetarian and Non vegetarian,Maybe,Sometimes,No,Never,Running,Maybe,Yes,Yoga,No,,Maybe,,Yes,3,Yes,No,Go out for a walk,,Yes
+Male,Student,No,Vegetarian and Non vegetarian,No,Sometimes,Yes,Very Often,Running,Yes,Yes,Cardio,Yes,To Stay healthy,Yes,more than a year,No,5,No,,Go out for a walk,Yes,Yes
+Male,Student,No,Vegetarian and Non vegetarian,Yes,Sometimes,Yes,Sometimes,Other,No,Yes,Cardio,Yes,To Stay healthy,Yes,,Maybe,3,No,Maybe,Go out for a walk,Yes,Yes
+Female,Student,No,Vegetarian food includes Eggs,Yes,Sometimes,Yes,Very Often,Yoga,No,Yes,Yoga,No,To Stay healthy,Maybe,0 month,Yes,3,No,No,Watch a movie,Yes,Yes
+Male,Student,No,Non Vegetarian food,Yes,Sometimes,Yes,Sometimes,Cardio,Maybe,Yes,Cardio,No,,No,0 month,Yes,4,Yes,Maybe,Go for a trip,Yes,Yes
+Female,Student,No,Vegetarian food,No,Sometimes,No,Sometimes,Cardio,No,Maybe,Cardio,Maybe,Weight loss,Yes,1-4 months,Yes,3,No,Yes,Singing,Yes,Yes
+Female,Student,No,Vegetarian and Non vegetarian,Yes,Sometimes,Maybe,Sometimes,Running,No,Yes,Yoga,Yes,To Stay healthy,Yes,1-4 months,Maybe,3,Maybe,No,Go out for a walk,Yes,Yes
+Male,Student,Yes,Non Vegetarian food,Maybe,Sometimes,Maybe,Sometimes,Running,Maybe,Yes,Yoga,Maybe,To Stay healthy,Maybe,1-4 months,Maybe,4,Maybe,Maybe,Go out for a walk,Yes,Maybe
+Male,Student,No,Vegetarian and Non vegetarian,Maybe,Sometimes,Yes,Sometimes,Gym,No,Yes,Cardio,Yes,Weight loss,Yes,0 month,Yes,4,Maybe,No,Go out for a walk,Yes,Yes
+Male,Student,No,Vegetarian and Non vegetarian,No,Sometimes,Maybe,Sometimes,Gym,No,Yes,None,Yes,Weight gain,Maybe,0 month,Maybe,4,No,No,Go out for a walk,Yes,No
+Male,Student,Maybe,Vegetarian and Non vegetarian,Yes,Very Often,Yes,Never,Other,No,Maybe,None,No,Weight loss,No,0 month,Maybe,3,Yes,Maybe,Watch a movie,Yes,Maybe
+Male,Student,Maybe,Vegetarian and Non vegetarian,Yes,Sometimes,Yes,Very Often,Gym,No,Yes,None,Yes,Weight loss,Yes,4-8 months,No,3,No,No,Go out for a walk,Yes,Yes
+Male,Student,Yes,Vegetarian and Non vegetarian,Maybe,Sometimes,Maybe,Very Often,Gym,No,Maybe,Yoga,Yes,Weight loss,Yes,1-4 months,Yes,3,Yes,Yes,Watch a movie,Yes,Yes
+Male,Student,No,Vegetarian and Non vegetarian,No,Sometimes,No,Never,Running,No,Yes,Cardio,No,Weight gain,No,0 month,No,4,No,No,Watch a movie,Yes,Yes
+Female,Student,No,Vegetarian food includes Eggs,Maybe,Sometimes,No,Never,Yoga,Yes,Yes,Yoga,No,,Maybe,0 month,Yes,2,Yes,Maybe,Go out for a walk,Yes,Yes
+Male,Student,No,Vegetarian and Non vegetarian,Yes,Sometimes,Maybe,Sometimes,Gym,Yes,Yes,Yoga,No,Weight gain,Maybe,1-4 months,Yes,2,Yes,Yes,Go for a trip,Yes,Yes
+Male,Student,No,Vegetarian food,Maybe,Sometimes,Maybe,Never,Gym,No,Yes,Yoga,No,,No,,No,4,Yes,Yes,Watch a movie,Yes,Yes
+Male,Student,Maybe,Vegetarian food includes Eggs,Maybe,Sometimes,Yes,Sometimes,Running,No,Yes,Yoga,No,To Stay healthy,Maybe,0 month,Yes,3,Yes,No,Watch a movie,Yes,Yes
+Female,Student,No,Vegetarian and Non vegetarian,Yes,Sometimes,Yes,Sometimes,Running,No,Yes,Cardio,Yes,To Stay healthy,Yes,1-4 months,No,3,Yes,No,Go out for a walk,Yes,No
+Male,Student,Yes,Vegetarian food includes Eggs,Maybe,Sometimes,Yes,Sometimes,Other,Maybe,Yes,Cardio,No,i've no diet plan,No,0 month,No,4,Yes,Yes,Exercise,Yes,Yes
+Female,Student,No,Vegetarian food,Yes,Very Often,Maybe,Sometimes,Gym,Yes,Maybe,Cardio,No,,Yes,,,,Yes,Maybe,Go out for a walk,Yes,Yes
+Male,Student,No,Vegetarian food,Maybe,Sometimes,Yes,Very Often,Other,Maybe,Yes,Cardio,No,No plans,Maybe,0 month,Maybe,4,Maybe,Maybe,Exercise,Yes,Yes
+Male,Working,No,Vegetarian food includes Eggs,Yes,Sometimes,No,Never,Other,No,Yes,Yoga,No,,No,0 month,No,,Yes,No,Singing,Yes,Yes
+Male,Working,No,Vegetarian food includes Eggs,Yes,Sometimes,Yes,Sometimes,Running,No,Yes,Cardio,No,To Stay healthy,Yes,0 month,No,3,No,Yes,Meditate,Maybe,Yes
+Female,Student,No,Vegetarian food,Yes,Sometimes,Maybe,Sometimes,Yoga,No,Yes,Yoga,No,,Maybe,0 month,Yes,3,No,Yes,Go out for a walk,Yes,Yes
+Male,Student,Yes,Non Vegetarian food,Yes,Sometimes,Yes,Very Often,Other,Maybe,Yes,Cardio,No,To Stay healthy,No,0 month,Yes,1,Yes,Yes,Go for a trip,Yes,Yes
+Female,Student,No,Vegetarian food,Yes,Very Often,Yes,Very Often,Other,No,Yes,Cardio,No,,Maybe,,Yes,3,Yes,Maybe,Exercise,Yes,Yes
+Female,Student,No,Vegetarian and Non vegetarian,Yes,Sometimes,Yes,Sometimes,Cardio,Yes,Yes,Cardio,No,,Yes,1-4 months,Yes,5,Yes,No,Go for a trip,Yes,Yes
+Female,Student,No,Vegetarian and Non vegetarian,Yes,Sometimes,Maybe,Very Often,Gym,No,Yes,Cardio,No,Weight loss,Yes,0 month,Yes,2,Yes,Yes,Watch a movie,Yes,Yes
